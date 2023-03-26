@@ -14,4 +14,4 @@
 
 ### Raison d'Etre:
 
-<p>My passion is studying programming and i'd be graceful if i could solve problems and create useful things whith it.</p>
+<p>My passion is studying programming and i'd be graceful if i could solve problems and create useful things with it.</p>
