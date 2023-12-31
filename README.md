@@ -21,7 +21,7 @@
 <hr>
 
 <div align="left">
-  <img alt="Marcio's gihub status" src='https://github-readme-stats.vercel.app/api?username=ribmarciojr&bg_color=00000000&hide_border=true&show_icons=true&theme=dracula' /> 
+  <img alt="Marcio's gihub status" src='https://github-readme-stats.vercel.app/api?username=ribmarciojr&title_color=BD55C6&bg_color=00000000&hide_border=true&show_icons=true&theme=dracula' /> 
 </div>
 
 
