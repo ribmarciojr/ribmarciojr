@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 👨‍🎓 Desenvolvedor Full-Stack na InfoJr UFBA
+- 👨‍🎓 Desenvolvedor Full-Stack
 
 - 📚 Aluno de Sistema de Informação na Univerdade Federal da Bahia(UFBA)
 
