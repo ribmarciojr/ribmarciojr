@@ -13,11 +13,7 @@
 - 💻 Todos os meus projetos estão disponíveis [aqui](https://github.com/ribmarciojr?tab=repositories)
 
 - 📫 Meu e-mail para contato **marciojunior2109@gmail.com**
-
-
-> [!IMPORTANT]
-> Atualmente, em busca de oportunidade para atuação como Desenvolvedor Full-Stack de sistemas.
-
+- 
 <hr>
 
 <div align="left">
