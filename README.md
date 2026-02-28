@@ -36,7 +36,7 @@
 Building tools that make developers' lives easier.
 Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** CI&T — São Paulo, BR
 
 </details>
 
